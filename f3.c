@@ -7,3 +7,17 @@ int main()
 
 }
 
+
+#include<stdio.h>
+int main()
+
+{int a,d,c;
+	printf("values for addition");
+	scanf("%d%d,&a,&b");
+	c=a+b;
+	printf("ans is"%d,c);
+	return 0;
+
+
+}
+
